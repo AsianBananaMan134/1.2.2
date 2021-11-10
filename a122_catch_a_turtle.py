@@ -1,4 +1,4 @@
-# a121_catch_a_turtle.py
+# a122_catch_a_turtle.py
 # -----import statements-----
 import turtle as trtl
 import random as rand
@@ -61,7 +61,7 @@ size_list = [0.5, 0.75, 1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5]
 
 #-----countdown variables-----
 font_setup = ("Arial", 20, "normal")
-timer = 5
+timer = 30
 counter_interval = 1000   #1000 represents 1 second
 timer_up = False
 
